@@ -2,4 +2,4 @@
 
 This is my first update
 
-Now edit for new
+Updaing readme file from github dot com
